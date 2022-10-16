@@ -1,8 +1,8 @@
 # YTGuiDownloader
-<small>Created : DedeRahmatz02 </small>
-<small>Youtube : Dede Rahmatz </small>
-<small>Instagram : @r_dede02 </small>
-<small>Tiktok : dederahmatz </small>
+Created : DedeRahmatz02 
+Youtube : Dede Rahmatz 
+Instagram : @r_dede02 
+Tiktok : dederahmatz 
 
 <h1>Yotube Downloader GUI</h1>
 
