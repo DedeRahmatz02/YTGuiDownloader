@@ -1,8 +1,8 @@
 # YTGuiDownloader
 Created : DedeRahmatz02 <br>
-Youtube : Dede Rahmatz 
-Instagram : @r_dede02 
-Tiktok : dederahmatz 
+Youtube : Dede Rahmatz <br>
+Instagram : @r_dede02 <br>
+Tiktok : dederahmatz <br>
 
 <h1>Yotube Downloader GUI</h1>
 
