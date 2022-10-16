@@ -9,3 +9,13 @@ Tiktok : dederahmatz <br>
 make sure module pytube installed
 
 > pip install pytube
+
+and run
+
+> python ytdownloader.py
+
+or
+
+> python3 ytdownloader.py
+
+Don't forget to subscribe my youtube
